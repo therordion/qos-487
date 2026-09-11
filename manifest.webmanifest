@@ -1,0 +1,37 @@
+{
+  "name": "QOS — quadringentī octōgintā septem",
+  "short_name": "QOS",
+  "description": "Полный круг — 27 лет по специальному календарю, или 36 по обычному: ровно столько проходит, прежде чем счёт сходится в ту же точку года. На таком отрезке видно устройство времени, а не список дат, — и время начинает восприниматься иначе: естественнее и ровнее. QOS — сокращение от quadringentī octōgintā septem, «четыреста восемьдесят семь» по-латыни: столько дней в специальном году.",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F1F3F9",
+  "theme_color": "#4B57DE",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
