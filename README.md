@@ -38,6 +38,12 @@ Any static host will do: GitHub Pages, Cloudflare Pages, Netlify. There is nothi
 build — the files are served as they are. Every path is relative, so the app also works
 from a subdirectory such as `name.github.io/repository/`.
 
+## Roadmap
+
+What still needs testing on real devices, and what is planned next — including the
+question of syncing between devices without a server, and measuring life in rounds —
+is in [ROADMAP.md](ROADMAP.md).
+
 ## Licence
 
 Apache License 2.0 — see `LICENSE`.
