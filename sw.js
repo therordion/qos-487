@@ -1,7 +1,7 @@
 /* QOS · quadringentī octōgintā septem — service worker.
    Стратегия: cache-first. Приложение полностью статично, обновляется
    только сменой CACHE — тогда старый кэш сносится целиком.            */
-const CACHE = 'dvakalendarya-487-v52';
+const CACHE = 'dvakalendarya-487-v53';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png',
